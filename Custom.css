@@ -1921,3 +1921,7 @@
 #-webkit-web-inspector .outline-disclosure li.parent.selected::before {
 	background: none !important;
 }
+
+.sidebar-pane-toolbar {
+  text-shadow:none!important;
+}
